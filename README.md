@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## My name is Khai
-* Former Retail Manager
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=solo917)](https://github.com/solo917/github-readme-stats)
+
+* Former Retail Manager 
 * Fullstack Engineer
 * Pronouns: He/Him/His
 * Passion for making things look good
-* Hobbyist musician
-
+* Hobbyist musician 
 
 ## Technologies I work with 
 
