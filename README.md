@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## My name is Khai
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=solo917)](https://github.com/solo917/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thekhaidev)](https://github.com/thekhaidev/github-readme-stats)
 
 * Former Retail Manager 
 * Fullstack Engineer
