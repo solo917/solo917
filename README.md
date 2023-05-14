@@ -1,4 +1,4 @@
-### Hi there 👋 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/khai-t-03449b219/)
+### Hi this is Khai 👋 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/khai-t-03449b219/)
 
 <!--
 **solo917/solo917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![image]()
 -->
 
-## My name is Khai
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thekhaidev)](https://github.com/thekhaidev/github-readme-stats)
 
 * Former Retail Manager 
